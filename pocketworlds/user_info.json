@@ -1,0 +1,62 @@
+[
+  {
+    "userid": 1,
+    "age": 28,
+    "gender": "Male",
+    "location": "USA"
+  },
+  {
+    "userid": 2,
+    "age": 35,
+    "gender": "Female",
+    "location": "UK"
+  },
+  {
+    "userid": 3,
+    "age": 22,
+    "gender": "Male",
+    "location": "Canada"
+  },
+  {
+    "userid": 4,
+    "age": 40,
+    "gender": "Female",
+    "location": "Australia"
+  },
+  {
+    "userid": 5,
+    "age": 25,
+    "gender": "Male",
+    "location": "Germany"
+  },
+  {
+    "userid": 6,
+    "age": 30,
+    "gender": "Female",
+    "location": "France"
+  },
+  {
+    "userid": 7,
+    "age": 32,
+    "gender": "Male",
+    "location": "Japan"
+  },
+  {
+    "userid": 8,
+    "age": 29,
+    "gender": "Female",
+    "location": "Brazil"
+  },
+  {
+    "userid": 9,
+    "age": 27,
+    "gender": "Male",
+    "location": "South Korea"
+  },
+  {
+    "userid": 10,
+    "age": 31,
+    "gender": "Female",
+    "location": "Netherlands"
+  }
+]

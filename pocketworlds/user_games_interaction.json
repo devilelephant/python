@@ -1,0 +1,122 @@
+[
+  {
+    "userid": 1,
+    "gameid": 1,
+    "rating": 4,
+    "playtime": 50
+  },
+  {
+    "userid": 1,
+    "gameid": 3,
+    "rating": 5,
+    "playtime": 200
+  },
+  {
+    "userid": 1,
+    "gameid": 6,
+    "rating": 3,
+    "playtime": 120
+  },
+  {
+    "userid": 2,
+    "gameid": 2,
+    "rating": 5,
+    "playtime": 80
+  },
+  {
+    "userid": 2,
+    "gameid": 5,
+    "rating": 4,
+    "playtime": 150
+  },
+  {
+    "userid": 2,
+    "gameid": 8,
+    "rating": 5,
+    "playtime": 300
+  },
+  {
+    "userid": 3,
+    "gameid": 4,
+    "rating": 4,
+    "playtime": 100
+  },
+  {
+    "userid": 3,
+    "gameid": 9,
+    "rating": 3,
+    "playtime": 70
+  },
+  {
+    "userid": 3,
+    "gameid": 11,
+    "rating": 5,
+    "playtime": 200
+  },
+  {
+    "userid": 4,
+    "gameid": 10,
+    "rating": 5,
+    "playtime": 180
+  },
+  {
+    "userid": 4,
+    "gameid": 13,
+    "rating": 4,
+    "playtime": 100
+  },
+  {
+    "userid": 4,
+    "gameid": 17,
+    "rating": 5,
+    "playtime": 250
+  },
+  {
+    "userid": 5,
+    "gameid": 14,
+    "rating": 5,
+    "playtime": 300
+  },
+  {
+    "userid": 5,
+    "gameid": 15,
+    "rating": 4,
+    "playtime": 200
+  },
+  {
+    "userid": 5,
+    "gameid": 20,
+    "rating": 5,
+    "playtime": 150
+  },
+  {
+    "userid": 6,
+    "gameid": 18,
+    "rating": 4,
+    "playtime": 220
+  },
+  {
+    "userid": 6,
+    "gameid": 19,
+    "rating": 5,
+    "playtime": 180
+  },
+  {
+    "userid": 7,
+    "gameid": 1,
+    "rating": 3,
+    "playtime": 120
+  },
+  {
+    "userid": 7,
+    "gameid": 7,
+    "rating": 5,
+    "playtime": 150
+  },
+  {
+    "userid": 7,
+    "gameid": 10,
+    "rating": 4,
+    "playtime": 100
+  }
+]
